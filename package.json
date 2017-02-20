@@ -1,0 +1,14 @@
+{
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-builder": "^7.15.0"
+  },
+  "build": {
+    "appId": "electron-demo",
+    "win" : {
+      "title": "demo for create  electron appli",
+      "version": "1.0.0",
+      "publisher": "Toca"
+    }
+  }
+}
