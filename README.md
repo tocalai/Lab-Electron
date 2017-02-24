@@ -5,7 +5,7 @@ Node.js/Electron/Electron-Edge/Materialize
 
 **Demo description:** 
 Fontend with Electron framework, let user input the person's name and age range for searching
-Endend with .Net dll library simulate to query person data from data store  and return json string as output to fontend
+backend with .Net dll library simulate to query person data from data store  and return json string as output to fontend
 
 **User interface:**
 ![process](https://cloud.githubusercontent.com/assets/16344700/23114317/4802fdd6-f779-11e6-9456-897e72340a9e.png)
